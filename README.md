@@ -1,4 +1,4 @@
-# Go Cheat Sheet
+# Go Cheat Sheet learning
 
 # Index
 1. [Basic Syntax](#basic-syntax)
